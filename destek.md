@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Destek
-description: Formda ile ilgili soru, sorun ve önerileriniz için iletişim bilgileri.
+title: "Destek"
+description: "Formda ile ilgili soru, sorun ve önerileriniz için iletişim bilgileri."
 permalink: /destek/
 eyebrow: Destek
 ---

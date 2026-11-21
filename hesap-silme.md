@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Hesap ve Veri Silme
-description: Formda hesabını ve hesabına bağlı verilerini uygulamadan ya da e-postayla nasıl sildirebileceğin, neler silindiği ve ne kadar süre saklandığı.
+title: "Hesap ve Veri Silme"
+description: "Formda hesabını ve hesabına bağlı verilerini uygulamadan ya da e-postayla nasıl sildirebileceğin, neler silindiği ve ne kadar süre saklandığı."
 permalink: /hesap-silme/
 eyebrow: Yasal · Veri silme
 ---

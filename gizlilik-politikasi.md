@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Gizlilik Politikası ve KVKK Aydınlatma Metni
-description: Formda'nın hangi kişisel verileri neden işlediği, kimlerle paylaştığı, ne kadar sakladığı ve KVKK kapsamındaki haklarınız.
+title: "Gizlilik Politikası ve KVKK Aydınlatma Metni"
+description: "Formda'nın hangi kişisel verileri neden işlediği, kimlerle paylaştığı, ne kadar sakladığı ve KVKK kapsamındaki haklarınız."
 permalink: /gizlilik/
 eyebrow: Yasal · Gizlilik
 ---

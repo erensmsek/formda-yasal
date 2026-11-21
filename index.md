@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Formda
-description: Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri.
+title: "Formda"
+description: "Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri."
 ---
 
 <section class="hero">

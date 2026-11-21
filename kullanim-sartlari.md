@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Kullanım Şartları
-description: Formda mobil uygulamasını kullanırken geçerli olan şartlar: hizmet, hesap, tıbbi tavsiye olmaması ve sorumluluğun sınırı.
+title: "Kullanım Şartları"
+description: "Formda mobil uygulamasını kullanırken geçerli olan şartlar: hizmet, hesap, tıbbi tavsiye olmaması ve sorumluluğun sınırı."
 permalink: /kullanim-sartlari/
 eyebrow: Yasal · Şartlar
 ---
