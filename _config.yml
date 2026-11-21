@@ -11,7 +11,7 @@ support_email: formda-destek@smsekdev.com
 privacy_email: formda-gizlilik@smsekdev.com
 markdown: kramdown
 kramdown:
-  toc_levels: 2
+  toc_levels: [2]
   auto_ids: true
 nav:
   - { title: Gizlilik, url: /gizlilik/ }
