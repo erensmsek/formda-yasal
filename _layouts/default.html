@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- assign t = page.title | default: site.title -%}
+  <title>{% if page.url == "/" %}{{ site.title }} — yasal metinler ve destek{% else %}{{ t }} · {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f7f6f3" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111213" media="(prefers-color-scheme: dark)">
+  <meta property="og:title" content="{{ t }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ '/assets/img/formda-simge-512.png' | absolute_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
+  <link rel="preload" href="{{ '/assets/fonts/rubik-latin-tr.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#icerik">İçeriğe geç</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img class="logo-light" src="{{ '/assets/img/formda-logo.svg' | relative_url }}" alt="" width="26" height="30">
+        <img class="logo-dark" src="{{ '/assets/img/formda-logo-light.svg' | relative_url }}" alt="" width="26" height="30">
+        <span>Formda</span>
+      </a>
+      <nav class="site-nav" aria-label="Ana gezinme">
+        {%- for item in site.nav %}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        {%- endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="icerik">
+    <div class="wrap">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div>
+        © 2026 {{ site.owner }} · Formda<br>
+        {{ site.address }}
+      </div>
+      <nav aria-label="Alt gezinme">
+        {%- for item in site.nav %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {%- endfor %}
+      </nav>
+      <div>
+        <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a><br>
+        <a href="mailto:{{ site.privacy_email }}">{{ site.privacy_email }}</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,23 @@
+# Formda yasal site — GitHub Pages (Jekyll). Özel tema: _layouts + assets.
+# Yayın adımları: YAYIN.md (FormDa deposu, docs/yasal).
+title: Formda
+description: Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri.
+lang: tr
+url: https://erensmsek.github.io
+baseurl: /formda-yasal
+owner: Eren Şimşek
+address: Beykoz, İstanbul
+support_email: formda-destek@smsekdev.com
+privacy_email: formda-gizlilik@smsekdev.com
+markdown: kramdown
+kramdown:
+  toc_levels: 2
+  auto_ids: true
+nav:
+  - { title: Gizlilik, url: /gizlilik/ }
+  - { title: Kullanım şartları, url: /kullanim-sartlari/ }
+  - { title: Hesap silme, url: /hesap-silme/ }
+  - { title: Destek, url: /destek/ }
+exclude:
+  - YAYIN.md
+  - README.md
