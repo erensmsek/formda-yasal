@@ -32,8 +32,6 @@
     --link: #8fb0ff;
     --shadow: none;
   }
-  .brand .logo-dark { display: block; }
-  .brand .logo-light { display: none; }
 }
 
 * { box-sizing: border-box; }
@@ -131,6 +129,11 @@ main { flex: 1; padding: 48px 0 72px; }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--text); }
 .site-footer nav { display: flex; gap: 18px; flex-wrap: wrap; }
+
+@media (prefers-color-scheme: dark) {
+  .brand .logo-dark { display: block; }
+  .brand .logo-light { display: none; }
+}
 
 @media print {
   .site-header, .site-footer, .toc, .skip { display: none; }
