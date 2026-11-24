@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Formda"
-description: "Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri."
+title: "FormDa"
+description: "FormDa mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri."
 ---
 
 <section class="hero">
   <p class="eyebrow">Yasal metinler ve destek</p>
-  <h1><strong>Formda</strong> ile ilgili<br>bilmen gereken her şey, açık ve sade.</h1>
-  <p class="lead">Formda; beslenmeni ve antrenmanlarını sakin bir arayüzle takip etmeni sağlayan bir mobil uygulamadır. Bu sayfada uygulamanın yasal belgeleri ve destek bilgileri yer alır.</p>
+  <h1><strong>FormDa</strong> ile ilgili<br>bilmen gereken her şey, açık ve sade.</h1>
+  <p class="lead">FormDa; beslenmeni ve antrenmanlarını sakin bir arayüzle takip etmeni sağlayan bir mobil uygulamadır. Bu sayfada uygulamanın yasal belgeleri ve destek bilgileri yer alır.</p>
 </section>
 
 <div class="cards">

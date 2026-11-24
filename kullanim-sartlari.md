@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Kullanım Şartları"
-description: "Formda mobil uygulamasını kullanırken geçerli olan şartlar: hizmet, hesap, tıbbi tavsiye olmaması ve sorumluluğun sınırı."
+description: "FormDa mobil uygulamasını kullanırken geçerli olan şartlar: hizmet, hesap, tıbbi tavsiye olmaması ve sorumluluğun sınırı."
 permalink: /kullanim-sartlari/
 eyebrow: Yasal · Şartlar
 ---
@@ -10,7 +10,7 @@ eyebrow: Yasal · Şartlar
 
 <p class="meta">Yürürlük tarihi: <strong>21 Kasım 2026</strong> · Sürüm 1.0</p>
 
-Bu şartlar, Eren Şimşek ("biz") tarafından sunulan Formda mobil uygulamasını
+Bu şartlar, Eren Şimşek ("biz") tarafından sunulan FormDa mobil uygulamasını
 ("uygulama") kullanımını düzenler. Uygulamayı kullanarak bu şartları kabul
 etmiş olursun.
 
@@ -23,7 +23,7 @@ etmiş olursun.
 
 ## 1. Hizmet
 
-Formda beslenmeni, suyunu, antrenmanlarını ve vücut ölçülerini kaydetmeni,
+FormDa beslenmeni, suyunu, antrenmanlarını ve vücut ölçülerini kaydetmeni,
 hedeflerini hesaplamanı ve ilerlemeni görmeni sağlar. İlk sürüm ücretsizdir.
 
 ## 2. Tıbbi tavsiye değildir

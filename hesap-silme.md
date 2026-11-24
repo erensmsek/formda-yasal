@@ -1,22 +1,22 @@
 ---
 layout: doc
 title: "Hesap ve Veri Silme"
-description: "Formda hesabını ve hesabına bağlı verilerini uygulamadan ya da e-postayla nasıl sildirebileceğin, neler silindiği ve ne kadar süre saklandığı."
+description: "FormDa hesabını ve hesabına bağlı verilerini uygulamadan ya da e-postayla nasıl sildirebileceğin, neler silindiği ve ne kadar süre saklandığı."
 permalink: /hesap-silme/
 eyebrow: Yasal · Veri silme
 ---
 
 # Hesap ve Veri Silme
 
-<p class="meta">Yürürlük tarihi: <strong>21 Kasım 2026</strong> · Uygulama: Formda · Geliştirici: Eren Şimşek</p>
+<p class="meta">Yürürlük tarihi: <strong>21 Kasım 2026</strong> · Uygulama: FormDa · Geliştirici: Eren Şimşek</p>
 
-**Formda** uygulamasındaki hesabını ve hesabına bağlı verilerini istediğin an sildirebilirsin.
+**FormDa** uygulamasındaki hesabını ve hesabına bağlı verilerini istediğin an sildirebilirsin.
 Uygulama telefonunda kurulu değilse ya da erişimin yoksa e-postayla da
 isteyebilirsin.
 
 ## 1. Uygulamadan silme
 
-1. Formda'yı aç ve giriş yap.
+1. FormDa'yı aç ve giriş yap.
 2. **Profil → Veri ve gizlilik → Hesabımı sil**'e dokun.
 3. Onayla.
 

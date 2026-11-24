@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/img/formda-logo-light.svg">
-    <img src="assets/img/formda-logo.svg" alt="Formda" height="96">
+    <img src="assets/img/formda-logo.svg" alt="FormDa" height="96">
   </picture>
 </p>
 
-<h1 align="center">Formda — Yasal Metinler</h1>
+<h1 align="center">FormDa — Yasal Metinler</h1>
 
 <p align="center">
-  Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek sayfaları.
+  FormDa mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek sayfaları.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## Bu depo nedir?
 
-Formda; beslenmeyi ve antrenmanı sakin bir arayüzle takip etmeyi sağlayan bir mobil uygulamadır. Bu **herkese açık** depo, uygulamanın mağaza girişlerinde ve uygulama içinde bağlantı verilen yasal belgeleri [GitHub Pages](https://pages.github.com/) ile yayınlar. Uygulamanın kaynak kodu bu depoda **yer almaz**.
+FormDa; beslenmeyi ve antrenmanı sakin bir arayüzle takip etmeyi sağlayan bir mobil uygulamadır. Bu **herkese açık** depo, uygulamanın mağaza girişlerinde ve uygulama içinde bağlantı verilen yasal belgeleri [GitHub Pages](https://pages.github.com/) ile yayınlar. Uygulamanın kaynak kodu bu depoda **yer almaz**.
 
 | Sayfa | Adres | Kullanıldığı yer |
 |---|---|---|
@@ -59,4 +59,4 @@ Belge değişince sayfadaki **Yürürlük tarihi** güncellenir. Önemli değiş
 
 ## Lisans ve haklar
 
-Metinler ve Formda adı/logosu © 2026 Eren Şimşek, tüm hakları saklıdır. Rubik yazı tipi [SIL Open Font License 1.1](https://openfontlicense.org/) ile lisanslıdır.
+Metinler ve FormDa adı/logosu © 2026 Eren Şimşek, tüm hakları saklıdır. Rubik yazı tipi [SIL Open Font License 1.1](https://openfontlicense.org/) ile lisanslıdır.

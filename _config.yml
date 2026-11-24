@@ -1,7 +1,7 @@
-# Formda yasal site — GitHub Pages (Jekyll). Özel tema: _layouts + assets.
+# FormDa yasal site — GitHub Pages (Jekyll). Özel tema: _layouts + assets.
 # Yayın adımları: YAYIN.md (FormDa deposu, docs/yasal).
-title: Formda
-description: Formda mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri.
+title: FormDa
+description: FormDa mobil uygulamasının gizlilik politikası, kullanım şartları, hesap silme ve destek bilgileri.
 lang: tr
 url: https://erensmsek.github.io
 baseurl: /formda-yasal
