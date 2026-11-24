@@ -8,7 +8,7 @@ eyebrow: Yasal · Gizlilik
 
 # Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-<p class="meta">Yürürlük tarihi: <strong>21 Kasım 2026</strong> · Sürüm 1.0</p>
+<p class="meta">Yürürlük tarihi: <strong>24 Kasım 2026</strong> · Sürüm 1.1</p>
 
 Formda ("uygulama"), beslenmeni ve antrenmanlarını takip etmeni sağlayan bir
 mobil uygulamadır. Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu
@@ -105,7 +105,7 @@ sağlayıcılarla, yalnız gereken kadar paylaşırız:
 
 | Sağlayıcı | Ne için | Konum |
 |---|---|---|
-| Supabase | Veritabanı, kimlik doğrulama | Japonya (Tokyo) |
+| Supabase | Veritabanı, kimlik doğrulama | Almanya (Frankfurt, AB) |
 | Google Firebase Analytics | Kimliğe bağlanmayan kullanım analitiği | ABD ve diğer ülkeler |
 | Sentry | Hata kaydı | ABD |
 | Apple, Google | "Apple ile giriş" / "Google ile giriş" | ABD |
@@ -114,7 +114,7 @@ Yasal zorunluluk olursa yetkili kamu kurumlarıyla da paylaşabiliriz.
 
 ## 6. Yurt dışına aktarım
 
-Yukarıdaki sağlayıcıların sunucuları Türkiye dışındadır (Japonya, ABD). KVKK
+Yukarıdaki sağlayıcıların sunucuları Türkiye dışındadır (Almanya/AB, ABD). KVKK
 m.9/6-a uyarınca bu aktarımı **açık rızana** dayanarak yaparız; rızanı ilk
 kurulumdaki onay adımında verirsin ve istediğin an geri alabilirsin (bkz. §4).
 
