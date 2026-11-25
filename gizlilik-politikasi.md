@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Gizlilik Politikası ve KVKK Aydınlatma Metni"
-description: "Formda'nın hangi kişisel verileri neden işlediği, kimlerle paylaştığı, ne kadar sakladığı ve KVKK kapsamındaki haklarınız."
+description: "FormDa'nın hangi kişisel verileri neden işlediği, kimlerle paylaştığı, ne kadar sakladığı ve KVKK kapsamındaki haklarınız."
 permalink: /gizlilik/
 eyebrow: Yasal · Gizlilik
 ---
@@ -10,7 +10,7 @@ eyebrow: Yasal · Gizlilik
 
 <p class="meta">Yürürlük tarihi: <strong>24 Kasım 2026</strong> · Sürüm 1.1</p>
 
-Formda ("uygulama"), beslenmeni ve antrenmanlarını takip etmeni sağlayan bir
+FormDa ("uygulama"), beslenmeni ve antrenmanlarını takip etmeni sağlayan bir
 mobil uygulamadır. Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu
 ("KVKK") kapsamında hangi verilerini neden işlediğimizi, nerede sakladığımızı
 ve haklarını anlatır.
@@ -50,10 +50,10 @@ ve haklarını anlatır.
 - **Sesli giriş:** mikrofon yalnız sen dokunduğunda açılır; ses kaydı
   saklanmaz. Telefonun destekliyorsa konuşma telefonda yazıya çevrilir;
   desteklemiyorsa ses, telefonunun işletim sistemi tarafından Apple ya da
-  Google'ın konuşma tanıma hizmetine gönderilir. Formda bu sese erişmez.
+  Google'ın konuşma tanıma hizmetine gönderilir. FormDa bu sese erişmez.
 
 **Apple Sağlık / Health Connect:** İzin verirsen (Profil → Sağlık ve saat)
-Formda telefonundaki Apple Sağlık (iPhone) ya da Health Connect (Android)
+FormDa telefonundaki Apple Sağlık (iPhone) ya da Health Connect (Android)
 uygulamasından **yalnız günlük adım sayını, dinlenme nabzını ve gece
 uykunu okur** (üçü ayrı izindir); oraya hiçbir şey yazmaz. Okunan adım, diğer kayıtların gibi
 hesabında saklanır ve günlük hareketini ve harcadığın enerjiyi tahmin etmek
@@ -131,7 +131,7 @@ kurulumdaki onay adımında verirsin ve istediğin an geri alabilirsin (bkz. §4
 
 ## 8. Çocuklar
 
-Formda 13 yaşından küçükler için tasarlanmadı. 18 yaşından küçüksen
+FormDa 13 yaşından küçükler için tasarlanmadı. 18 yaşından küçüksen
 uygulamayı velinin bilgisiyle kullan.
 
 ## 9. Hakların (KVKK m.11)
@@ -151,7 +151,7 @@ düzeltebilir ve hesabını silebilirsin.
 
 ## 10. Sağlık uyarısı
 
-Formda'nın hesapladığı değerler genel nüfus için bilimsel formüllere dayalı
+FormDa'nın hesapladığı değerler genel nüfus için bilimsel formüllere dayalı
 tahminlerdir; **tıbbi tavsiye değildir**. Kendi sağlık durumun için bir
 hekime ya da diyetisyene danış.
 

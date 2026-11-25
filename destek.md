@@ -1,16 +1,16 @@
 ---
 layout: doc
 title: "Destek"
-description: "Formda ile ilgili soru, sorun ve önerileriniz için iletişim bilgileri."
+description: "FormDa ile ilgili soru, sorun ve önerileriniz için iletişim bilgileri."
 permalink: /destek/
 eyebrow: Destek
 ---
 
 # Destek
 
-<p class="meta">Uygulama: Formda · Geliştirici: Eren Şimşek</p>
+<p class="meta">Uygulama: FormDa · Geliştirici: Eren Şimşek</p>
 
-Formda ile ilgili bir sorun yaşıyorsan, bir şey sormak ya da öneri iletmek istiyorsan bize yazabilirsin.
+FormDa ile ilgili bir sorun yaşıyorsan, bir şey sormak ya da öneri iletmek istiyorsan bize yazabilirsin.
 
 ## Bize ulaş
 
@@ -37,5 +37,5 @@ Mesajlar en kısa sürede yanıtlanır; veri başvuruları en geç **30 gün** i
 **Sağlık verilerim nereye gidiyor?** Ayrıntı [Gizlilik Politikası](../gizlilik/) sayfasında; kısaca: reklam için kullanılmaz, satılmaz, Apple Sağlık / Health Connect bağlantısı yalnız okumadır ve istediğin an kapatılabilir.
 
 <div class="callout" markdown="1">
-Formda'nın hesapladığı değerler genel nüfus için tahmindir ve **tıbbi tavsiye değildir**. Sağlık durumunla ilgili kararlar için bir hekime ya da diyetisyene danış.
+FormDa'nın hesapladığı değerler genel nüfus için tahmindir ve **tıbbi tavsiye değildir**. Sağlık durumunla ilgili kararlar için bir hekime ya da diyetisyene danış.
 </div>
